@@ -1,0 +1,9 @@
+{
+    "sequences": {
+        "Red": [1, 0, 0, 0],
+        "Yellow": [0, 1, 0, 0],
+        "Green": [0, 0, 1, 0],
+        "GreenLeft": [0, 0, 0, 1],
+        "Blinking": [0, 0, 0, 0]
+    }
+}
